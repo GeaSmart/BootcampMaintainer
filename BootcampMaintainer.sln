@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampMaintainer", "BootcampMaintainer\BootcampMaintainer.csproj", "{EEB59C10-5EB6-47DE-9558-46B20F06D1DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB59C10-5EB6-47DE-9558-46B20F06D1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB59C10-5EB6-47DE-9558-46B20F06D1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB59C10-5EB6-47DE-9558-46B20F06D1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB59C10-5EB6-47DE-9558-46B20F06D1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1E6228-B480-4D8E-B95C-53DF3F0CB293}
+	EndGlobalSection
+EndGlobal
